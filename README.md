@@ -1,14 +1,5 @@
 <div align="center">
 
-<!-- LANGUAGE SELECTOR -->
-
-🇧🇷 <a href="./README.md">PT-BR</a>
-  │  
-🇺🇸 <a href="./README.en.md">EN</a>
-  │  
-🇪🇸 <a href="./README.es.md">ES</a>
-
-<br><br>
 
 <!-- HERO -->
 
