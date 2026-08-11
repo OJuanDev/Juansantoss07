@@ -86,7 +86,33 @@ const developer = {
 
 ---
 
-## `02 — CORE STACK`
+## `02 — EDUCATION`
+
+<div align="center">
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  🎓  BACHELOR'S DEGREE                                     │
+│                                                             │
+│  Analysis and Systems Development (ADS)                     │
+│  Universidade Nove de Julho — UNINOVE                       │
+│                                                             │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  ◈   POSTGRADUATE DEGREE                                    │
+│                                                             │
+│  Software Engineering                                       │
+│  Faculdade Metropolitana                                    │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## `03 — CORE STACK`
 
 <div align="center">
 
@@ -116,7 +142,7 @@ const developer = {
 
 ---
 
-## `03 — WHAT I BUILD`
+## `04 — WHAT I BUILD`
 
 <div align="center">
 
@@ -136,7 +162,7 @@ const developer = {
 
 ---
 
-## `04 — TECH DNA`
+## `05 — TECH DNA`
 
 <div align="center">
 
@@ -168,7 +194,7 @@ const developer = {
 
 ---
 
-## `05 — ENGINEERING PRINCIPLES`
+## `06 — ENGINEERING PRINCIPLES`
 
 ```text
 01  →  SIMPLE > COMPLEX
@@ -189,7 +215,7 @@ const developer = {
 
 ---
 
-## `06 — GITHUB SYSTEM`
+## `07 — GITHUB SYSTEM`
 
 <div align="center">
 
@@ -210,7 +236,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=OJuanDev&lay
 <div align="center">
 
 <img
-src="https://github-readme-streak-stats.herokuapp.com/?user=OJuanDev&theme=dark&hide_border=true&background=050505&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=FFFFFF&dates=777777"
+src="https://streak-stats.demolab.com/?user=OJuanDev&theme=dark&hide_border=true&background=050505&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=FFFFFF&dates=777777"
 width="70%"
 />
 
@@ -218,7 +244,7 @@ width="70%"
 
 ---
 
-## `07 — ACTIVITY`
+## `08 — ACTIVITY`
 
 <div align="center">
 
@@ -231,7 +257,7 @@ width="96%"
 
 ---
 
-## `08 — CURRENTLY`
+## `09 — CURRENTLY`
 
 <div align="center">
 
