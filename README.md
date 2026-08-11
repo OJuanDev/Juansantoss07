@@ -1,5 +1,17 @@
 <div align="center">
 
+<!-- LANGUAGE SELECTOR -->
+
+🇧🇷 <a href="./README.md">PT-BR</a>
+  │  
+🇺🇸 <a href="./README.en.md">EN</a>
+  │  
+🇪🇸 <a href="./README.es.md">ES</a>
+
+<br><br>
+
+<!-- HERO -->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,45:0A0A0A,75:111111,100:00E5FF&text=OJUANDEV&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%2F%2F%20JAVASCRIPT%20ECOSYSTEM&descAlignY=58&descSize=13&animation=fadeIn" width="100%"/>
 
 <br>
@@ -11,7 +23,9 @@
 <a href="https://www.linkedin.com/in/juan-santos-developer/" target="_blank">
 <img src="https://img.shields.io/badge/LINKEDIN-FFFFFF?style=flat-square&logo=linkedin&logoColor=000000&labelColor=FFFFFF" />
 </a>
-&nbsp;
+
+ 
+
 <a href="mailto:ojuandev@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-FFFFFF?style=flat-square&logo=gmail&logoColor=000000&labelColor=FFFFFF" />
 </a>
@@ -215,41 +229,49 @@ const developer = {
 
 ---
 
-## `07 — GITHUB SYSTEM`
+## `07 — GITHUB // SYSTEM`
 
 <div align="center">
 
 <img
-height="180"
-src="https://github-readme-stats.vercel.app/api?username=OJuanDev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF&bg_color=050505"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OJuanDev&theme=github_dark"
+width="96%"
+/>
+
+<br><br>
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OJuanDev&theme=github_dark&hide_border=true"
+width="47%"
 />
 
 <img
-height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=OJuanDev&layout=compact&hide_border=true&theme=github_dark&title_color=00E5FF&text_color=FFFFFF&bg_color=050505"
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OJuanDev&theme=github_dark&hide_border=true"
+width="47%"
 />
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <img
-src="https://streak-stats.demolab.com/?user=OJuanDev&theme=dark&hide_border=true&background=050505&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=FFFFFF&dates=777777"
-width="70%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OJuanDev&theme=github_dark&hide_border=true"
+width="47%"
+/>
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OJuanDev&theme=github_dark&utcOffset=-3&hide_border=true"
+width="47%"
 />
 
 </div>
 
 ---
 
-## `08 — ACTIVITY`
+## `08 — ACTIVITY // LIVE`
 
 <div align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=OJuanDev&bg_color=050505&color=FFFFFF&line=00E5FF&point=FFFFFF&area=true&hide_border=true"
+src="https://github-readme-activity-graph.vercel.app/graph?username=OJuanDev&bg_color=050505&color=FFFFFF&line=00E5FF&point=FFFFFF&area=true&hide_border=true&custom_title=OJuanDev%20%2F%2F%20Contribution%20Activity"
 width="96%"
 />
 
@@ -269,9 +291,9 @@ width="96%"
 │  ● ONLINE                                                   │
 │                                                             │
 │  ├─ exploring      →  Next.js / TypeScript                 │
-│  ├─ building       →  SaaS / Web Applications               │
-│  ├─ improving      →  Architecture / Performance            │
-│  ├─ experimenting  →  AI / Automation                       │
+│  ├─ building       →  SaaS / Web Applications              │
+│  ├─ improving      →  Architecture / Performance           │
+│  ├─ experimenting  →  AI / Automation                      │
 │  └─ shipping       →  Production                            │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
@@ -285,7 +307,9 @@ width="96%"
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=3500&pause=1200&color=777777&center=true&vCenter=true&width=500&lines=%3E+Always+learning.;%3E+Always+building.;%3E+Always+shipping." />
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=3500&pause=1200&color=777777&center=true&vCenter=true&width=500&lines=%3E+Always+learning.;%3E+Always+building.;%3E+Always+shipping."
+/>
 
 <br><br>
 
@@ -293,8 +317,11 @@ width="96%"
 
 `Software Engineer · Full Stack Developer`
 
-<br>
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00E5FF,40:111111,100:050505" width="100%"/>
+<img
+src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00E5FF,40:111111,100:050505"
+width="100%"
+/>
 
 </div>
