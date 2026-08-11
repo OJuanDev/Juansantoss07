@@ -1,217 +1,274 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,50:161B22,100:00E5FF&text=JUAN%20SANTOS&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,45:0A0A0A,75:111111,100:00E5FF&text=OJUANDEV&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%2F%2F%20JAVASCRIPT%20ECOSYSTEM&descAlignY=58&descSize=13&animation=fadeIn" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Building+modern+web+experiences.;JavaScript+%7C+TypeScript+%7C+React+%7C+Next.js+%7C+Node.js;From+idea+to+production.;Code.+Create.+Ship.+Repeat." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=720&lines=Building+digital+products+that+feel+as+good+as+they+work.;TypeScript+%2B+React+%2B+Next.js+%2B+Node.js;Turning+ideas+into+production-ready+experiences.;Design.+Engineering.+Performance." />
 
 <br><br>
 
 <a href="https://www.linkedin.com/in/juan-santos-developer/" target="_blank">
-<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/LINKEDIN-FFFFFF?style=flat-square&logo=linkedin&logoColor=000000&labelColor=FFFFFF" />
 </a>
 &nbsp;
 <a href="mailto:ojuandev@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00E5FF&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/EMAIL-FFFFFF?style=flat-square&logo=gmail&logoColor=000000&labelColor=FFFFFF" />
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Juansantoss07&color=00E5FF&style=flat-square&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=OJuanDev&style=flat-square&color=00E5FF&label=VISITORS" />
 
 </div>
 
+<br>
+
 ---
 
-## `> whoami`
+<div align="center">
 
-```typescript
-const juan = {
+```text
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   O J U A N D E V                                                ║
+║                                                                  ║
+║   SOFTWARE ENGINEER  •  FULL STACK DEVELOPER                     ║
+║                                                                  ║
+║   JAVASCRIPT ECOSYSTEM                                           ║
+║                                                                  ║
+║   TYPESCRIPT  /  REACT  /  NEXT.JS  /  NODE.JS                  ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+## `01 — ABOUT`
+
+> I build modern digital products with a strong focus on the **JavaScript ecosystem**.
+
+I'm a Full Stack Developer specialized in building **web applications, SaaS platforms, e-commerce experiences and custom digital products**.
+
+My main stack revolves around:
+
+**TypeScript · React · Next.js · Node.js**
+
+I also have experience with **PHP, Laravel, Magento, Shopify, PostgreSQL, Docker and AWS**, allowing me to work across the entire product lifecycle — from architecture and interface to backend, integrations and deployment.
+
+<br>
+
+```ts
+const developer = {
   name: "Juan Santos",
+  alias: "OJuanDev",
   role: "Full Stack Developer",
-  focus: "JavaScript Ecosystem",
-  education: "Software Engineering",
-  
-  core: [
-    "JavaScript",
-    "TypeScript",
-    "React",
-    "Next.js",
-    "Node.js"
+
+  ecosystem: "JavaScript",
+
+  stack: {
+    language: "TypeScript",
+    frontend: ["React", "Next.js"],
+    backend: ["Node.js"],
+    database: ["PostgreSQL"],
+  },
+
+  mindset: [
+    "Performance",
+    "Scalability",
+    "Clean Code",
+    "User Experience",
   ],
 
-  building: [
-    "Web Applications",
-    "SaaS",
-    "E-commerce",
-    "Digital Products"
-  ],
-
-  philosophy: "Code. Create. Ship. Repeat."
+  status: "Building."
 };
 ```
 
 ---
 
-## `⚡ Core Stack`
+## `02 — CORE STACK`
 
 <div align="center">
 
-### `JavaScript Ecosystem`
+### `LANGUAGE`
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs&theme=dark" />
-
-<br><br>
-
-### `Frontend`
-
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,sass,vite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts&theme=dark" />
 
 <br><br>
 
-### `Backend & Database`
+### `FRONTEND`
 
-<img src="https://skillicons.dev/icons?i=nodejs,php,laravel,postgres,prisma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,sass,vite&theme=dark" />
 
 <br><br>
 
-### `Cloud & DevOps`
+### `BACKEND`
 
-<img src="https://skillicons.dev/icons?i=docker,aws,vercel,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,php,laravel,prisma&theme=dark" />
+
+<br><br>
+
+### `DATABASE / INFRASTRUCTURE`
+
+<img src="https://skillicons.dev/icons?i=postgres,docker,aws,vercel,git,github&theme=dark" />
 
 </div>
 
 ---
 
-## `🚀 What I Build`
+## `03 — WHAT I BUILD`
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-### `01 / Web Applications`
+|          `WEB APPS`          |            `SAAS`            |
+| :--------------------------: | :--------------------------: |
+| Modern & scalable interfaces | Digital products & platforms |
+|        React + Next.js       |     TypeScript + Node.js     |
+|      Performance focused     |     Architecture focused     |
 
-Interfaces modernas, performáticas e escaláveis utilizando React, Next.js e TypeScript.
+|    `E-COMMERCE`    |       `INTEGRATIONS`      |
+| :----------------: | :-----------------------: |
+| Custom experiences |     APIs & automations    |
+|  Magento · Shopify | Payments · ERP · Shipping |
+| Conversion focused |    Reliable & scalable    |
 
-</td>
-
-<td width="50%">
-
-### `02 / SaaS & Products`
-
-Produtos digitais pensados para transformar ideias em soluções reais e escaláveis.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### `03 / E-commerce`
-
-Experiências de compra personalizadas, integrações e desenvolvimento para plataformas de e-commerce.
-
-</td>
-
-<td width="50%">
-
-### `04 / Backend`
-
-APIs, integrações, automações e arquiteturas utilizando Node.js, TypeScript e bancos relacionais.
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-## `🧬 Tech DNA`
+## `04 — TECH DNA`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=typescript,react,nextjs,nodejs&theme=dark" />
+
+<br><br>
+
+```text
+                         ┌──────────────┐
+                         │ TYPESCRIPT   │
+                         └──────┬───────┘
+                                │
+              ┌─────────────────┼─────────────────┐
+              │                 │                 │
+              ▼                 ▼                 ▼
+        ┌──────────┐      ┌──────────┐      ┌──────────┐
+        │  REACT   │      │ NEXT.JS  │      │ NODE.JS  │
+        └────┬─────┘      └────┬─────┘      └────┬─────┘
+             │                 │                 │
+             └─────────────────┼─────────────────┘
+                               │
+                               ▼
+                    ┌────────────────────┐
+                    │ DIGITAL PRODUCTS   │
+                    └────────────────────┘
+```
+
+</div>
+
+---
+
+## `05 — ENGINEERING PRINCIPLES`
+
+```text
+01  →  SIMPLE > COMPLEX
+02  →  PERFORMANCE MATTERS
+03  →  UX IS PART OF THE CODE
+04  →  TYPE SAFETY IS A FEATURE
+05  →  SHIP > PERFECT
+06  →  BUILD FOR SCALE
+```
+
+<br>
+
+<div align="center">
+
+`Architecture`   `Performance`   `DX`   `UX`   `Scalability`
+
+</div>
+
+---
+
+## `06 — GITHUB SYSTEM`
+
+<div align="center">
+
+<img
+height="180"
+src="https://github-readme-stats.vercel.app/api?username=OJuanDev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF&bg_color=050505"
+/>
+
+<img
+height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=OJuanDev&layout=compact&hide_border=true&theme=github_dark&title_color=00E5FF&text_color=FFFFFF&bg_color=050505"
+/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=OJuanDev&theme=dark&hide_border=true&background=050505&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=FFFFFF&dates=777777"
+width="70%"
+/>
+
+</div>
+
+---
+
+## `07 — ACTIVITY`
+
+<div align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=OJuanDev&bg_color=050505&color=FFFFFF&line=00E5FF&point=FFFFFF&area=true&hide_border=true"
+width="96%"
+/>
+
+</div>
+
+---
+
+## `08 — CURRENTLY`
 
 <div align="center">
 
 ```text
-                 ┌─────────────────────────┐
-                 │       JAVASCRIPT        │
-                 └────────────┬────────────┘
-                              │
-                    ┌─────────▼─────────┐
-                    │    TYPESCRIPT     │
-                    └─────────┬─────────┘
-                              │
-              ┌───────────────┼───────────────┐
-              ▼               ▼               ▼
-          ┌───────┐       ┌────────┐      ┌───────┐
-          │ React │       │Next.js │      │Node.js│
-          └───────┘       └────────┘      └───────┘
-              │               │               │
-              └───────────────┼───────────────┘
-                              ▼
-                    ┌─────────────────┐
-                    │ DIGITAL PRODUCTS│
-                    └─────────────────┘
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  SYSTEM STATUS                                              │
+│                                                             │
+│  ● ONLINE                                                   │
+│                                                             │
+│  ├─ exploring      →  Next.js / TypeScript                 │
+│  ├─ building       →  SaaS / Web Applications               │
+│  ├─ improving      →  Architecture / Performance            │
+│  ├─ experimenting  →  AI / Automation                       │
+│  └─ shipping       →  Production                            │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
 
 </div>
 
 ---
 
-## `📊 GitHub / System Status`
-
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Juansantoss07&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9&bg_color=0D1117" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juansantoss07&layout=compact&hide_border=true&theme=github_dark&title_color=00E5FF&text_color=C9D1D9&bg_color=0D1117" />
-
-</div>
 
 <br>
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=3500&pause=1200&color=777777&center=true&vCenter=true&width=500&lines=%3E+Always+learning.;%3E+Always+building.;%3E+Always+shipping." />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Juansantoss07&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" />
+<br><br>
 
-</div>
+**`OJuanDev`**
 
----
-
-## `📡 Activity`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Juansantoss07&bg_color=0D1117&color=C9D1D9&line=00E5FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-## `⚙️ Currently Building`
-
-```bash
-$ systemctl status juan-dev
-
-● juan-dev.service - Digital Products & Web Experiences
-   Loaded: active
-   Status: ONLINE
-
-   > exploring:    Next.js + TypeScript
-   > building:     SaaS & Web Applications
-   > improving:    Architecture & Performance
-   > learning:     New Technologies
-   > shipping:     Production-ready solutions
-
-   [████████████████████████████████] 100%
-```
-
----
-
-<div align="center">
-
-### `// Always learning. Always building.`
+`Software Engineer · Full Stack Developer`
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:00E5FF,50:161B22,100:0D1117" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00E5FF,40:111111,100:050505" width="100%"/>
 
 </div>
