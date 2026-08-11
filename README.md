@@ -1,13 +1,12 @@
 <div align="center">
 
-
 <!-- HERO -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,45:0A0A0A,75:111111,100:00E5FF&text=OJUANDEV&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%2F%2F%20JAVASCRIPT%20ECOSYSTEM&descAlignY=58&descSize=13&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,45:0A0A0A,75:111111,100:C8F050&text=OJUANDEV&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%2F%2F%20JAVASCRIPT%20ECOSYSTEM&descAlignY=58&descSize=13&animation=fadeIn" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=720&lines=Building+digital+products+that+feel+as+good+as+they+work.;TypeScript+%2B+React+%2B+Next.js+%2B+Node.js;Turning+ideas+into+production-ready+experiences.;Design.+Engineering.+Performance." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=2800&pause=900&color=C8F050&center=true&vCenter=true&width=720&lines=Building+digital+products+that+feel+as+good+as+they+work.;TypeScript+%2B+React+%2B+Next.js+%2B+Node.js;Turning+ideas+into+production-ready+experiences.;Design.+Engineering.+Performance." />
 
 <br><br>
 
@@ -23,7 +22,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=OJuanDev&style=flat-square&color=00E5FF&label=VISITORS" />
+<img src="https://komarev.com/ghpvc/?username=OJuanDev&style=flat-square&color=C8F050&label=VISITORS" />
 
 </div>
 
@@ -33,7 +32,7 @@
 
 <div align="center">
 
-```text
+```text id="3xw4lq"
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
 ║   O J U A N D E V                                                ║
@@ -63,7 +62,7 @@ I also have experience with **PHP, Laravel, Magento, Shopify, PostgreSQL, Docker
 
 <br>
 
-```ts
+```ts id="w9q5fs"
 const developer = {
   name: "Juan Santos",
   alias: "OJuanDev",
@@ -95,7 +94,7 @@ const developer = {
 
 <div align="center">
 
-```text
+```text id="4v8w3x"
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
 │  🎓  BACHELOR'S DEGREE                                     │
@@ -175,7 +174,7 @@ const developer = {
 
 <br><br>
 
-```text
+```text id="p6w0o8"
                          ┌──────────────┐
                          │ TYPESCRIPT   │
                          └──────┬───────┘
@@ -201,7 +200,7 @@ const developer = {
 
 ## `06 — ENGINEERING PRINCIPLES`
 
-```text
+```text id="v1q8ja"
 01  →  SIMPLE > COMPLEX
 02  →  PERFORMANCE MATTERS
 03  →  UX IS PART OF THE CODE
@@ -225,7 +224,7 @@ const developer = {
 <div align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=OJuanDev&bg_color=050505&color=FFFFFF&line=00E5FF&point=FFFFFF&area=true&hide_border=true&custom_title=OJuanDev%20%2F%2F%20Contribution%20Activity"
+src="https://github-readme-activity-graph.vercel.app/graph?username=OJuanDev&bg_color=050505&color=FFFFFF&line=C8F050&point=C8F050&area=true&hide_border=true&custom_title=OJuanDev%20%2F%2F%20Contribution%20Activity"
 width="96%"
 />
 
@@ -237,7 +236,7 @@ width="96%"
 
 <div align="center">
 
-```text
+```text id="x8d5kv"
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
 │  SYSTEM STATUS                                              │
@@ -274,7 +273,7 @@ src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=1
 <br><br>
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00E5FF,40:111111,100:050505"
+src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:C8F050,40:111111,100:050505"
 width="100%"
 />
 
