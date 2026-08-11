@@ -220,44 +220,7 @@ const developer = {
 
 ---
 
-## `07 — GITHUB // SYSTEM`
-
-<div align="center">
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OJuanDev&theme=github_dark"
-width="96%"
-/>
-
-<br><br>
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OJuanDev&theme=github_dark&hide_border=true"
-width="47%"
-/>
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OJuanDev&theme=github_dark&hide_border=true"
-width="47%"
-/>
-
-<br><br>
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OJuanDev&theme=github_dark&hide_border=true"
-width="47%"
-/>
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OJuanDev&theme=github_dark&utcOffset=-3&hide_border=true"
-width="47%"
-/>
-
-</div>
-
----
-
-## `08 — ACTIVITY // LIVE`
+## `07 — ACTIVITY // LIVE`
 
 <div align="center">
 
@@ -270,7 +233,7 @@ width="96%"
 
 ---
 
-## `09 — CURRENTLY`
+## `08 — CURRENTLY`
 
 <div align="center">
 
